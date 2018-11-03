@@ -1,0 +1,120 @@
+,Make,Model,Sales,4-year resale value,Price
+0,Acura        ,Integra          ,16919,16360,21500
+1,Acura        ,TL               ,39384,19875,28400
+2,Acura        ,RL               ,8588,29725,42000
+3,Audi         ,A4               ,20397,22255,23990
+4,Audi         ,A6               ,18780,23555,33950
+5,Audi         ,A8               ,1380,39000,62000
+6,BMW          ,328i             ,9231,28675,33400
+7,BMW          ,528i             ,17527,36125,38900
+8,Buick        ,Century          ,91561,12475,21975
+9,Buick        ,Regal            ,39350,13740,25300
+10,Buick        ,Park Avenue      ,27851,20190,31965
+11,Buick        ,LeSabre          ,83257,13360,27885
+12,Cadillac     ,DeVille          ,63729,22525,39895
+13,Cadillac     ,Seville          ,15943,27100,44475
+14,Cadillac     ,Eldorado         ,6536,25725,39665
+15,Cadillac     ,Catera           ,11185,18225,31010
+16,Chevrolet    ,Cavalier         ,145519,9250,13260
+17,Chevrolet    ,Malibu           ,135126,11225,16535
+18,Chevrolet    ,Lumina           ,24629,10310,18890
+19,Chevrolet    ,Monte Carlo      ,42593,11525,19390
+20,Chevrolet    ,Camaro           ,26401,13025,24340
+21,Chevrolet    ,Corvette         ,17947,36225,45705
+22,Chevrolet    ,Prizm            ,32299,9125,13960
+23,Chevrolet    ,Metro            ,21855,5160,9235
+24,Chrysler     ,Sebring Coupe    ,7854,12360,19840
+25,Chrysler     ,Sebring Conv.    ,32775,14180,24495
+26,Chrysler     ,Concorde         ,31148,13725,22245
+27,Chrysler     ,Cirrus           ,32305,12640,16480
+28,Chrysler     ,LHS              ,13462,17325,28340
+29,Dodge        ,Neon             ,76033,7750,12640
+30,Dodge        ,Avenger          ,4734,12545,19045
+31,Dodge        ,Stratus          ,71186,10185,20230
+32,Dodge        ,Intrepid         ,88027,12275,22505
+33,Dodge        ,Viper            ,915,58470,69725
+34,Dodge        ,Ram Pickup       ,227060,15060,19460
+35,Dodge        ,Ram Wagon        ,16767,15510,21315
+36,Dodge        ,Ram Van          ,31038,13425,18575
+37,Dodge        ,Dakota           ,111312,11260,16980
+38,Dodge        ,Caravan          ,181749,12025,19565
+39,Ford         ,Escort           ,70227,7425,12070
+40,Ford         ,Mustang          ,113369,12760,21560
+41,Ford         ,Contour          ,35068,8835,17035
+42,Ford         ,Taurus           ,245815,10055,17885
+43,Ford         ,Crown Victoria   ,63403,14210,22195
+44,Ford         ,Explorer         ,276747,16640,31930
+45,Ford         ,Windstar         ,155787,13175,21410
+46,Ford         ,Expedition       ,125338,23575,36135
+47,Ford         ,Ranger           ,220650,7850,12050
+48,Ford         ,F-Series         ,540561,15075,26935
+49,Honda        ,Civic            ,199685,9850,12885
+50,Honda        ,Accord           ,230902,13210,15350
+51,Honda        ,CR-V             ,73203,17710,20550
+52,Honda        ,Passport         ,12855,17525,26600
+53,Honda        ,Odyssey          ,76029,19490,26000
+54,Hyundai      ,Accent           ,41184,5860,9699
+55,Hyundai      ,Elantra          ,66692,7825,11799
+56,Hyundai      ,Sonata           ,29450,8910,14999
+57,Infiniti     ,I30              ,23713,19690,29465
+58,Jeep         ,Wrangler         ,55556,13475,14460
+59,Jeep         ,Cherokee         ,80556,13775,21620
+60,Jeep         ,Grand Cherokee   ,157040,18810,26895
+61,Lexus        ,ES300            ,24072,26975,31505
+62,Lexus        ,GS300            ,12698,32075,37805
+63,Lexus        ,LS400            ,6375,40375,54005
+64,Lincoln      ,Continental      ,13798,20525,39080
+65,Lincoln      ,Town car         ,48911,21725,43330
+66,Mitsubishi   ,Mirage           ,26232,8325,13987
+67,Mitsubishi   ,Eclipse          ,42541,10395,19047
+68,Mitsubishi   ,Galant           ,55616,10595,17357
+69,Mitsubishi   ,Diamante         ,5711,16575,24997
+70,Mitsubishi   ,3000GT           ,110,20940,25450
+71,Mitsubishi   ,Montero          ,11337,19125,31807
+72,Mitsubishi   ,Montero Sport    ,39348,13880,22526
+73,Mercury      ,Mystique         ,14351,8800,16239
+74,Mercury      ,Cougar           ,26529,13890,16540
+75,Mercury      ,Sable            ,67956,11030,19035
+76,Mercury      ,Grand Marquis    ,81173,14875,22605
+77,Mercury      ,Mountaineer      ,27609,20430,27560
+78,Mercury      ,Villager         ,20380,14795,22510
+79,Mercedes-Benz,C-Class          ,18392,26050,31750
+80,Mercedes-Benz,E-Class          ,27601,41450,49900
+81,Mercedes-Benz,S-Class          ,16774,50375,69700
+82,Mercedes-Benz,SL-Class         ,3311,58600,82600
+83,Nissan       ,Sentra           ,42643,8450,13499
+84,Nissan       ,Altima           ,88094,11295,20390
+85,Nissan       ,Maxima           ,79853,15125,26249
+86,Nissan       ,Quest            ,27308,15380,26399
+87,Nissan       ,Pathfinder       ,42574,17810,29299
+88,Oldsmobile   ,Cutlass          ,1112,11240,18145
+89,Oldsmobile   ,Aurora           ,14690,19890,36229
+90,Oldsmobile   ,Bravada          ,20017,19925,31598
+91,Oldsmobile   ,Silhouette       ,24361,15240,25345
+92,Plymouth     ,Neon             ,32734,7750,12640
+93,Plymouth     ,Breeze           ,5240,9800,16079
+94,Plymouth     ,Voyager          ,24155,12025,18850
+95,Pontiac      ,Sunfire          ,51645,13790,21610
+96,Pontiac      ,Grand Am         ,131097,10290,19720
+97,Pontiac      ,Firebird         ,19910,17805,25310
+98,Pontiac      ,Grand Prix       ,92363,14010,21665
+99,Pontiac      ,Bonneville       ,35945,13225,23755
+100,Porsche      ,Boxter           ,8982,41250,41430
+101,Porsche      ,Carrera Coupe    ,1280,60625,71020
+102,Porsche      ,Carrera Cabriolet,1865,67550,74970
+103,Saturn       ,SL               ,80620,9200,10685
+104,Saturn       ,SC               ,24546,10590,12535
+105,Saturn       ,SW               ,5223,10790,14290
+106,Toyota       ,Corolla          ,142535,10025,13107
+107,Toyota       ,Camry            ,247994,13245,17518
+108,Toyota       ,Avalon           ,63849,18140,25545
+109,Toyota       ,Celica           ,33269,15445,16875
+110,Toyota       ,Tacoma           ,84087,9575,11527
+111,Toyota       ,RAV4             ,25105,13325,16887
+112,Toyota       ,4Runner          ,68411,19425,22288
+113,Toyota       ,Land Cruiser     ,9835,34080,51728
+114,Volkswagen   ,Golf             ,9761,11425,14900
+115,Volkswagen   ,Jetta            ,83721,13240,16700
+116,Volkswagen   ,Passat           ,51102,16725,21200
+117,Volkswagen   ,Cabrio           ,9568,16575,19990
+118,Volkswagen   ,GTI              ,5596,13760,17500
